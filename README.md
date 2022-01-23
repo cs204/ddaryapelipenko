@@ -1,2 +1,0 @@
-# ddaryapelipenko
-psets
